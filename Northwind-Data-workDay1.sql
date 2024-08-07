@@ -1,4 +1,4 @@
--- Northwind database
+-- Northwind database Day 1
 
 -- view all databases in your system
 SHOW databases;
